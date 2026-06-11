@@ -288,6 +288,15 @@ const Content = () => (
         marginTop: "2em",
       }}
     >
+      <i>Indonesian translation: Muhamad Afif Effindi, Ana Tsalitsatun Ni’mah, Evy Maya Stefany, Moch. Rivaldi Septian Wibawa, Saffana Assani’, Taufiqur Rohman</i>
+    </p>
+    <p
+      style={{
+        color: COLORS.gray,
+        textAlign: "center",
+        marginTop: "2em",
+      }}
+    >
       <i>
         If you are interested in translating the brochure into your language,
         just email us at hi(at)aiunplugged.org.
